@@ -1,16 +1,27 @@
-## Hi there 👋
+> # About me...
+ - ### *Name* = `Abolfazl`.
+ - ### *family* = `Dashti zadeh`.
+ - ### *full family* = `Abolfazl dashti zadeh`.
+ - ### *Nickname* = *`Siavash`*.
+ - ### *age* = *`21 years`*.
 
-<!--
-**siavashdz/siavashdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> # **My account status**
+ ![Anurag GitHub stat](https://github-readme-stats.vercel.app/api?username=siavashdz&theme=chartreuse-dark&show_icons=true)
+
+
+
+> # Development skills
+>  ![...](https://img.shields.io/badge/Html-000) |
+>  ![...](https://img.shields.io/badge/Css-000) |
+>  ![...](https://img.shields.io/badge/Animation-000)
+> - **Creative `ideator`**
+> - __Creativity__ in **`animation`**
+> # Certificates
+>    1. __psychologist__ and __Development__ ***`UI / UX`***
+>    2. **Computer user**
+>    3. **Computer typing**
+>    4. **`Computer`** *graphics*
+>    5. **`Color`** *graphics*
+>    6. **`Black and white`** *graphics*
