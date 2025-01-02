@@ -8,7 +8,7 @@
 
 
 > # **My account status**
- ![Anurag GitHub stat](https://github-readme-stats.vercel.app/api?username=siavashdz&theme=chartreuse-dark&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siavashdz&theme=graywhite&show_icons=true)
 
 
 
